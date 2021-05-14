@@ -25,14 +25,22 @@ The general breakdown of each assignment is as follows:
 2. Canny Edge Detector
 3. Structured Edge
 4. Performance Evaluation
-<br>
+
 **Problem 2: Digital Half-toning**
 1. Dithering
 2. Error Diffusion
 
-<br>
 **Problem 3: Color Half-toning with Error Diffusion**
+
 ### Homework 3
+**Problem 1: Geometric Image Modification** <br>
+
+**Problem 2: Homographic Transformation and Image Stitching**
+
+**Problem 3: Morphological Processing**
+1. Basic morphological process implementation
+2. Solution to the maze
+3. Defect detection and count
 
 ### Homework 4
 

@@ -7,20 +7,31 @@ The file structure should be relatively easy to follow and I have a README for e
 
 The general breakdown of each assignment is as follows:
 ### Homework 1
-**Problem 1: Image Demosaicing and Histogram Manipulation** <br>
-   a) Bilinear Demosaicing
-   a) Histogram Manipulation
+**Problem 1: Image Demosaicing and Histogram Manipulation**
+   1. Bilinear Demosaicing
+   2. Histogram Manipulation
 
 **Problem 2: Image Denoising**
-   a) Basic Denoising Methods
-   a) Bilateral Filtering
-   a) Non-Local Means (NLM) Filtering
-   a) Mixed noises in color image
+   1. Basic Denoising Methods
+   2. Bilateral Filtering
+   3. Non-Local Means (NLM) Filtering
+   4. Mixed noises in color image
 
 **Problem 3: Special Effect Image Filters: Creating Oil Painting Effect**
 
 ### Homework 2
+**Problem 1: Edge Detection**
+1. Sobel Edge Detector
+2. Canny Edge Detector
+3. Structured Edge
+4. Performance Evaluation
+<br>
+**Problem 2: Digital Half-toning**
+1. Dithering
+2. Error Diffusion
 
+<br>
+**Problem 3: Color Half-toning with Error Diffusion**
 ### Homework 3
 
 ### Homework 4

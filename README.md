@@ -7,7 +7,7 @@ The file structure should be relatively easy to follow and I have a README for e
 
 The general breakdown of each assignment is as follows:
 ### Homework 1
-**Problem 1: Image Demosaicing and Histogram Manipulation**
+**Problem 1: Image Demosaicing and Histogram Manipulation** <br>
    (a) Bilinear Demosaicing
    (b) Histogram Manipulation
 

@@ -4,28 +4,22 @@ As one can guess, this is a repo where I will store all of the homework assignme
 (EE-569 Digital Image Processing).
 
 <br>
-<br>
 The file structure should be relatively easy to follow and I have a README for each homework assignment that gives a general idea of how the folder itself is structured and how to run the code.
 
 <br>
-<br>
 The general breakdown of each assignment is as follows:
 ### Homework 1
-**Problem 1: Image Demosaicing and Histogram Manipulation**
+*Problem 1: Image Demosaicing and Histogram Manipulation*
    (a) Bilinear Demosaicing
    (b) Histogram Manipulation
-
 <br> 
-<br>
-**Problem 2: Image Denoising**
+*Problem 2: Image Denoising*
    (a) Basic Denoising Methods
    (b) Bilateral Filtering
    (c) Non-Local Means (NLM) Filtering
    (d) Mixed noises in color image
-
 <br>
-<br>
-**Problem 3: Special Effect Image Filters: Creating Oil Painting Effect**
+*Problem 3: Special Effect Image Filters: Creating Oil Painting Effect*
 
 ### Homework 2
 

@@ -43,7 +43,31 @@ The general breakdown of each assignment is as follows:
 3. Defect detection and count
 
 ### Homework 4
+**Problem 1: Texture Analysis**
+1. Texture Classification - Feature Extraction
+2. Advanced Texture Classification - Classifier Explore
+
+**Problem 2: Texture Segmentation**
+1. Basic Texture Segmentation
+2. Advanced Texture Segmentation
+
+**Problem 3: SIFT and Image Matching**
+1. Saliet Point Descriptor
+2. Image Matching
+3. Bag of Words
 
 ### Homework 5
+**Problem 1: CNN Training on LeNet-5**
+1. CNN Architecture
+2. Compare classification performance on different datasets
+3. Apply traed network to negative images
 
 ### Homework 6
+**Problem 1: Origin of Green Learning**
+1. Feedforward-designed Convolutional Neural Networks (FF-CNNs)
+2. PxelHop and PixelHop++
+
+**Problem 2: MNIST & Fashion-MNIST Classification**
+1. Building the PixelHop++ Model
+2. Comparison between PixelHop and PixelHop++
+3. Error Analysis
